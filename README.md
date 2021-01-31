@@ -1,7 +1,7 @@
 ### Hi there, I'm Tarun  👋
 
 ## I'm a Software Developer by Profession & by Passion!!
-
+## I like experimenting with new technologies, building small personal projects and doing competitive programming.
 - 🔭 I just deployed my Amazon Clone App: [Amazon Clone!][amz_clone]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
