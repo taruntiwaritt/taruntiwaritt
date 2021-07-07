@@ -3,7 +3,7 @@
 ## I'm a Software Developer by Profession & by Passion!!
 ## I like experimenting with new technologies, building small personal projects and doing competitive programming.
 - 🔭 I just deployed my Amazon Clone App: [Amazon Clone!][amz_clone]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to open source & continously improve tech skills
 - ⚡ Fun fact: I love music,football & dogs
